@@ -1,0 +1,12 @@
+@font-face {
+    font-family: BYekan;
+    src: url(../font/BYekan.ttf) format("truetype");
+  }
+a { cursor: pointer }
+
+body {
+
+    font-family: 'BYekan' !important;
+     
+    }
+    
